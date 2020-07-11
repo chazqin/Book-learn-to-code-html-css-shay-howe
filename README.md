@@ -4,8 +4,7 @@ An iterative web project following the Shay Howe book : Learn to Code HTML & CSS
 
 Book Link: https://learn.shayhowe.com/html-css/
 
-
-Final Project: https://chazqin.github.io/Book-learn-to-code-html-css-shay-howe/
+#### Final Project: https://chazqin.github.io/Book-learn-to-code-html-css-shay-howe/
 
 ## Topics Covered
 
